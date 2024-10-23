@@ -16,7 +16,7 @@ If you don't have CPLEX package in your python, run this code in your command pr
 
 The procedures are the same as step 1. use this code `pip install docplex`.
 
-# Once you have cplex product with unlimitation after installation
+# Once you have cplex product with unlimited use after installation
 Connect your cplex on your PC into python cplex as the following:
 <br/>
 <b>Step 1. Download this python file provided by IBM</b>  
